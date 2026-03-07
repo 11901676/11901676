@@ -127,7 +127,7 @@ Interactive two-player game with instant replay functionality, rule enforcement,
 
 <td width="50%" valign="top">
 
-### 📚 [GFG DSA Practice]([https://github.com/11901676/Love-Babbar-DSA-Solutions](https://github.com/11901676/GFG-DSA))
+### 📚 [GFG DSA Practice](https://github.com/11901676/GFG-DSA)
 > DSA Problem Archive
 
 Java solutions — a structured journey mastering Data Structures & Algorithms.
@@ -154,13 +154,10 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=11901676&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11901676&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-</div>
+![Repos](https://img.shields.io/badge/Public%20Repos-8-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-6-yellow?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-303-green?style=for-the-badge&logo=github)
+![LeetCode](https://img.shields.io/badge/LeetCode-1450%2B-orange?style=for-the-badge&logo=leetcode)
 
 <div align="center">
 
