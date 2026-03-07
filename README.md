@@ -5,6 +5,8 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Dipesh%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=56&descAlign=50" width="100%"/>
 
+<br/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22d3ee&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+BT+Group+%F0%9F%94%90;Java+%7C+Spring+Boot+%7C+Microservices;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Rating+1450%2B+%F0%9F%8F%86;Building+Secure+Scalable+Systems" alt="Typing SVG" />
