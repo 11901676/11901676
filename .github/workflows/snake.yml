@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push: # This forces it to run immediately when you save the file
+    branches:
+      - main
+      - master
 
 jobs:
   generate:
@@ -17,7 +21,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: 11901676
+          github_user_name: "11901676" # Added quotes so YAML reads it as text!
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -28,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} # Using your custom token
