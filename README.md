@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**11901676/11901676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some i<div align="center">
+<<div align="center">
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Dipesh%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=56&descAlign=50" width="100%"/>
@@ -60,7 +57,6 @@ public class DipeshTiwari extends BackendEngineer {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -92,7 +88,7 @@ public class DipeshTiwari extends BackendEngineer {
 
 ### 🛡️ Associate Security Intern | BT Group *(Jan 2023 – Jul 2023)*
 
-- 🔧 Configured & troubleshot **Cisco ASA Firewalls** and **F5 Load Balancers** — maintained 100% uptime for enterprise clients
+- 🔧 Configured & troubleshot **Cisco ASA Firewalls** and **F5 Load Balancers** — maintained 100% uptime
 - 🔒 Implemented **VPN solutions** improving connectivity and security posture across environments
 - 💬 Delivered live technical support achieving **95% customer satisfaction** rating
 - `Tech: Cisco ASA | F5 BigIP | DNS | Routing & Switching`
@@ -101,19 +97,56 @@ public class DipeshTiwari extends BackendEngineer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![ContactHub](https://github-readme-stats.vercel.app/api/pin/?username=11901676&repo=ContactHub-Secure-Cloud-Contact-Platform&theme=github_dark&hide_border=true)](https://github.com/11901676/ContactHub-Secure-Cloud-Contact-Platform)
-[![Connect Four](https://github-readme-stats.vercel.app/api/pin/?username=11901676&repo=Connect-Four-Game&theme=github_dark&hide_border=true)](https://github.com/11901676/Connect-Four-Game)
+### 📇 [ContactHub – Secure Cloud Contact Manager](https://github.com/11901676/ContactHub-Secure-Cloud-Contact-Platform)
+> Spring Boot Web Application
 
-[![DSA Solutions](https://github-readme-stats.vercel.app/api/pin/?username=11901676&repo=Love-Babbar-DSA-Solutions&theme=github_dark&hide_border=true)](https://github.com/11901676/Love-Babbar-DSA-Solutions)
-[![Learning System](https://github-readme-stats.vercel.app/api/pin/?username=11901676&repo=LEARNING-SYSTEM&theme=github_dark&hide_border=true)](https://github.com/11901676/LEARNING-SYSTEM)
+Built a secure cloud contact manager with **OAuth2 login**, role-based access, CRUD + search + pagination APIs, email workflows, and Cloudinary media storage.
 
-</div>
+**Stack:**
+`Spring Boot` `Spring Security` `OAuth2` `MySQL` `JPA/Hibernate` `Cloudinary SDK` `TailwindCSS`
 
-> 🔵 **ContactHub** — OAuth2 login, RBAC, Spring Security, JPA, MySQL, Cloudinary SDK, email workflows & data export
->
-> 🟠 **Connect Four** — Interactive two-player JavaFX desktop game with instant replay and rule enforcement
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Connect Four Game](https://github.com/11901676/Connect-Four-Game)
+> JavaFX Desktop Application
+
+Interactive two-player game with instant replay functionality, rule enforcement, and seamless game restart. Built fully in Java with JavaFX and SceneBuilder.
+
+**Stack:**
+`Java` `JavaFX` `SceneBuilder`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Love Babbar DSA Solutions](https://github.com/11901676/Love-Babbar-DSA-Solutions)
+> DSA Problem Archive
+
+Complete solutions to Love Babbar's curated 450 DSA questions — my full journey mastering Data Structures & Algorithms.
+
+**Stack:**
+`C++` `Data Structures` `Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Learning System](https://github.com/11901676/LEARNING-SYSTEM)
+> Full-Stack Student Platform
+
+Student learning platform with login/signup, tests, content, tutors, videos, and FAQs pages — a complete education portal.
+
+**Stack:**
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -122,6 +155,7 @@ public class DipeshTiwari extends BackendEngineer {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=11901676&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11901676&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
@@ -136,19 +170,14 @@ public class DipeshTiwari extends BackendEngineer {
 
 ## 🏆 Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=11901676&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-| 🏅 Award | 📝 Details |
-|---|---|
-| 🎖️ BT Group Recognition | Certificate of Appreciation for strong performance & ownership |
-| 💻 LeetCode | Contest Rating **1450+** |
-| 🧠 DSA Mastery | **700+ problems** solved on LeetCode & GeeksForGeeks |
-| 🎓 Academic | B.Tech CSE, LPU — **CGPA 8.37 / 10.0** |
-| 📚 Intermediate | S.V.N. Inter College — **89.8%** |
+| 🏅 | Achievement | Details |
+|:---:|---|---|
+| 🎖️ | **BT Group Recognition** | Certificate of Appreciation for strong performance & ownership |
+| 💻 | **LeetCode** | Contest Rating **1450+** |
+| 🧠 | **DSA Mastery** | **700+ problems** solved on LeetCode & GeeksForGeeks |
+| 🎓 | **Academic** | B.Tech CSE, LPU — **CGPA 8.37 / 10.0** |
+| 📚 | **Intermediate** | S.V.N. Inter College — **89.8%** |
+| ⚡ | **Performance** | Reduced DB lookup latency by **~25%** via MySQL indexing |
 
 ---
 
@@ -156,7 +185,7 @@ public class DipeshTiwari extends BackendEngineer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=11901676&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=11901676&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -174,15 +203,17 @@ public class DipeshTiwari extends BackendEngineer {
 
 </div>
 
+> **Snake not showing?** Go to your repo → **Actions tab** → **"Generate Snake"** → click **"Run workflow"** button → wait 30 seconds. The SVG will appear automatically.
+
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipeshtiwari)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/dipeshtiwari47/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/dipeshtiwari47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipeshtiwari47@gmail.com)
 
 </div>
@@ -196,5 +227,3 @@ public class DipeshTiwari extends BackendEngineer {
 *"First, solve the problem. Then, write the code." — Always shipping, always learning ✨*
 
 </div>
-
--->
