@@ -157,7 +157,7 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 ![Repos](https://img.shields.io/badge/Public%20Repos-8-blue?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Stars-6-yellow?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-303-green?style=for-the-badge&logo=github)
-![LeetCode](https://img.shields.io/badge/LeetCode-1450%2B-orange?style=for-the-badge&logo=leetcode)
+
 
 <div align="center">
 
@@ -221,7 +221,7 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0d1117,50:0a2a3a,100:0891b2&height=160&section=footer&text=Let%27s%20Connect%20%F0%9F%A4%9D&fontSize=28&fontColor=22d3ee&animation=twinkling&fontAlignY=50" width="100%"/>
 
 *"First, solve the problem. Then, write the code." — Always shipping, always learning ✨*
 
