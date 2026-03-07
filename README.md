@@ -103,48 +103,44 @@ public class DipeshTiwari extends BackendEngineer {
 <tr>
 <td width="50%" valign="top">
 
-### 📇 [ContactHub – Secure Cloud Contact Manager](https://github.com/11901676/ContactHub-Secure-Cloud-Contact-Platform)
-> Spring Boot Web Application
-
-Built a secure cloud contact manager with **OAuth2 login**, role-based access, CRUD + search + pagination APIs, email workflows, and Cloudinary media storage.
-
-**Stack:**
-`Spring Boot` `Spring Security` `OAuth2` `MySQL` `JPA/Hibernate` `Cloudinary SDK` `TailwindCSS`
+<h3>📇 <a href="https://github.com/11901676/ContactHub-Secure-Cloud-Contact-Platform">ContactHub – Secure Cloud Contact Manager</a></h3>
+<em>Spring Boot Web Application</em><br/><br/>
+Built a secure cloud contact manager with <strong>OAuth2 login</strong>, role-based access, CRUD + search + pagination APIs, email workflows, and Cloudinary media storage.
+<br/><br/>
+<strong>Stack:</strong><br/>
+<code>Spring Boot</code> <code>Spring Security</code> <code>OAuth2</code> <code>MySQL</code> <code>JPA/Hibernate</code> <code>Cloudinary SDK</code> <code>TailwindCSS</code>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Connect Four Game](https://github.com/11901676/Connect-Four-Game)
-> JavaFX Desktop Application
-
+<h3>🎮 <a href="https://github.com/11901676/Connect-Four-Game/tree/master">Connect Four Game</a></h3>
+<em>JavaFX Desktop Application</em><br/><br/>
 Interactive two-player game with instant replay functionality, rule enforcement, and seamless game restart. Built fully in Java with JavaFX and SceneBuilder.
-
-**Stack:**
-`Java` `JavaFX` `SceneBuilder`
+<br/><br/>
+<strong>Stack:</strong><br/>
+<code>Java</code> <code>JavaFX</code> <code>SceneBuilder</code>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-### 📚 [GFG DSA Practice](https://github.com/11901676/GFG-DSA)
-> DSA Problem Archive
 
-Java solutions — a structured journey mastering Data Structures & Algorithms.
-
-**Stack:**
-`Java` `Data Structures` `Algorithms`
+<h3>📚 <a href="https://github.com/11901676/GFG-DSA">GFG DSA Practice</a></h3>
+<em>DSA Problem Archive</em><br/><br/>
+Java solutions — a structured journey mastering Data Structures &amp; Algorithms.
+<br/><br/>
+<strong>Stack:</strong><br/>
+<code>Java</code> <code>Data Structures</code> <code>Algorithms</code>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Learning System](https://github.com/11901676/LEARNING-SYSTEM)
-> Full-Stack Student Platform
-
+<h3>🎓 <a href="https://github.com/11901676/LEARNING-SYSTEM">Learning System</a></h3>
+<em>Full-Stack Student Platform</em><br/><br/>
 Student learning platform with login/signup, tests, content, tutors, videos, and FAQs pages — a complete education portal.
-
-**Stack:**
-`HTML` `CSS` `JavaScript`
+<br/><br/>
+<strong>Stack:</strong><br/>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 
 </td>
 </tr>
