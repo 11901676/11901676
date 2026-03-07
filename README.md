@@ -153,11 +153,11 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 ---
 
 ## 📊 GitHub Stats
-
+<div align="center">
 ![Repos](https://img.shields.io/badge/Public%20Repos-8-blue?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Stars-6-yellow?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-303-green?style=for-the-badge&logo=github)
-
+</div>
 
 <div align="center">
 
