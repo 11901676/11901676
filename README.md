@@ -126,7 +126,7 @@ Interactive two-player game with instant replay functionality, rule enforcement,
 </tr>
 
 <td width="50%" valign="top">
-
+<tr>
 ### 📚 [GFG DSA Practice](https://github.com/11901676/GFG-DSA)
 > DSA Problem Archive
 
