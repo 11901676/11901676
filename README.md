@@ -124,7 +124,7 @@ Interactive two-player game with instant replay functionality, rule enforcement,
 
 </td>
 </tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 📚 [GFG DSA Practice]([https://github.com/11901676/Love-Babbar-DSA-Solutions](https://github.com/11901676/GFG-DSA))
