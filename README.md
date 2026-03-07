@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=250&section=header&br&text=Dipesh%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=65&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&br&text=Dipesh%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=65&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -127,13 +127,13 @@ Interactive two-player game with instant replay functionality, rule enforcement,
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Love Babbar DSA Solutions](https://github.com/11901676/Love-Babbar-DSA-Solutions)
+### 📚 [GFG DSA Practice]([https://github.com/11901676/Love-Babbar-DSA-Solutions](https://github.com/11901676/GFG-DSA))
 > DSA Problem Archive
 
-Complete solutions to Love Babbar's curated 450 DSA questions — my full journey mastering Data Structures & Algorithms.
+Java solutions — a structured journey mastering Data Structures & Algorithms.
 
 **Stack:**
-`C++` `Data Structures` `Algorithms`
+`Java` `Data Structures` `Algorithms`
 
 </td>
 <td width="50%" valign="top">
@@ -156,9 +156,9 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=11901676&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11901676&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=11901676&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11901676&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
