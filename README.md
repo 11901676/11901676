@@ -198,7 +198,7 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 
 </div>
 
-> **Snake not showing?** Go to your repo → **Actions tab** → **"Generate Snake"** → click **"Run workflow"** button → wait 30 seconds. The SVG will appear automatically.
+<!-- **Snake not showing?** Go to your repo → **Actions tab** → **"Generate Snake"** → click **"Run workflow"** button → wait 30 seconds. The SVG will appear automatically. -->
 
 ---
 
