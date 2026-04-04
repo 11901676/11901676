@@ -81,19 +81,20 @@ public class DipeshTiwari extends BackendEngineer {
 
 ### 🔐 Cyber Security Associate – Backend Engineer | BT Group *(Aug 2023 – Present)*
 
-- ⚡ Engineered backend services for an internal **SecOps platform** processing **500+ security alerts/day** via asynchronous pipelines
-- 🔗 Built **RESTful microservices** for incident ingestion, enrichment & lifecycle management — reduced manual analyst effort by **~30%**
-- 🗄️ Designed normalized **MySQL schemas** with indexing & pagination — improved lookup latency by **~25%**
-- 🔑 Enhanced **Spring Security** with JWT authentication & **RBAC** for secure API exposure across microservices
-- 🐳 **Containerized** backend services with Docker and deployed on **Azure** for consistent, reliable delivery
-- `Tech: Java | Spring Boot | Microservices | RESTful APIs | MySQL | ServiceNow`
+- ⚡ Processed **500+ security alerts daily** via asynchronous pipelines built on **Java and Spring Boot**, ingesting events from multiple enterprise sources for an internal **SecOps platform**
+- 🔗 Built **RESTful microservices** for incident ingestion, enrichment & lifecycle management — reduced manual analyst effort by **~30%**, with **Splunk** as the primary alerting and orchestration layer
+- 🗄️ Cut query latency by **~25%** — redesigned normalized **MySQL schemas** with targeted indexing & pagination for high-volume incident tables
+- 🔑 Secured API access across **8+ microservices** and 3 cross-functional teams with **JWT-based authentication & RBAC** using Spring Security, enforcing least-privilege access across all endpoints
+- 🐳 **Containerized** backend services with Docker and deployed on **Azure**, standardizing the release process and reducing environment-related deployment failures
+- `Tech: Java | Spring Boot | Microservices | RESTful APIs | MySQL | Spring Security | JWT | Docker | Azure | Splunk | ServiceNow`
 
 ### 🛡️ Associate Security Intern | BT Group *(Jan 2023 – Jul 2023)*
 
-- 🔧 Configured & troubleshot **Cisco ASA Firewalls** and **F5 Load Balancers** — maintained 100% uptime
-- 🔒 Implemented **VPN solutions** improving connectivity and security posture across environments
-- 💬 Delivered live technical support achieving **95% customer satisfaction** rating
-- `Tech: Cisco ASA | F5 BigIP | DNS | Routing & Switching`
+- 🔧 Configured **Site-to-Site & AnyConnect VPNs**, ACLs, and NAT on **Cisco ASA Firewalls** — ensured **100% uptime** and strengthened network security posture for enterprise clients
+- 🔒 Performed **SSL Certificate** creation & renewal on **F5 BIG-IP** and configured Virtual Servers for SSL termination
+- 💬 Delivered live technical support for firewall, VPN & load balancer issues — achieved **95% customer satisfaction** rating
+- 🤝 Collaborated with senior engineers in incident handling, setups & handovers, gaining hands-on expertise in **Cisco ASA, F5 BigIP, DNS, Routing & Switching**
+- `Tech: Cisco ASA | F5 BigIP | VPN | SSL | DNS | Routing & Switching | Incident Management`
 
 ---
 
