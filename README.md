@@ -59,6 +59,7 @@ public class DipeshTiwari extends BackendEngineer {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -66,12 +67,14 @@ public class DipeshTiwari extends BackendEngineer {
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23BCB673.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300B050.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -169,7 +172,7 @@ Student learning platform with login/signup, tests, content, tutors, videos, and
 | 🏅 | Achievement | Details |
 |:---:|---|---|
 | 🎖️ | **BT Group Recognition** | Certificate of Appreciation for strong performance & ownership |
-| 💻 | **LeetCode** | Contest Rating **1450+** |
+| 💻 | **LeetCode** | Contest Rating **1500+** |
 | 🧠 | **DSA Mastery** | **700+ problems** solved on LeetCode & GeeksForGeeks |
 | 🎓 | **Academic** | B.Tech CSE, LPU — **CGPA 8.37 / 10.0** |
 | 📚 | **Intermediate** | S.V.N. Inter College — **89.8%** |
