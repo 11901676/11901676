@@ -35,7 +35,7 @@ public class DipeshTiwari extends BackendEngineer {
     String[] currentWork = {
         "Building SecOps automation pipelines (500+ alerts/day)",
         "Designing RESTful microservices with JWT + RBAC",
-        "Containerizing services with Docker on Azure"
+        "Containerizing services with Docker on AWS"
     };
 
     String[] strengths = {
@@ -88,7 +88,7 @@ public class DipeshTiwari extends BackendEngineer {
 - 🗄️ Cut query latency by **~25%** — redesigned normalized **MySQL schemas** with targeted indexing & pagination for high-volume incident tables
 - 🔑 Secured API access across **8+ microservices** and 3 cross-functional teams with **JWT-based authentication & RBAC** using Spring Security, enforcing least-privilege access across all endpoints
 - 🐳 **Containerized** backend services with Docker and deployed on **AWS**, standardizing the release process and reducing environment-related deployment failures
-- `Tech: Java | Spring Boot | Microservices | RESTful APIs | MySQL | Spring Security | JWT | Docker | Azure | Splunk | ServiceNow`
+- `Tech: Java | Spring Boot | Microservices | RESTful APIs | MySQL | Spring Security | JWT | Docker | AWS | Splunk | ServiceNow`
 
 ### 🛡️ Associate Security Intern | BT Group *(Jan 2023 – Jul 2023)*
 
