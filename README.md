@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22d3ee&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+BT+Group+%F0%9F%94%90;Java+%7C+Spring+Boot+%7C+Microservices;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Rating+1450%2B+%F0%9F%8F%86;Building+Secure+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22d3ee&center=true&vCenter=true&width=650&lines=Backend+Engineer+%40+BT+Group+%F0%9F%94%90;Java+%7C+Spring+Boot+%7C+Microservices;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+Rating+1500%2B+%F0%9F%8F%86;Building+Secure+Scalable+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -43,7 +43,7 @@ public class DipeshTiwari extends BackendEngineer {
         "MySQL Query Optimization", "DSA (700+ problems)"
     };
 
-    String funFact = "LeetCode rating 1450+ and still going 🚀";
+    String funFact = "LeetCode rating 1500+ and still going 🚀";
 }
 ```
 
@@ -68,7 +68,6 @@ public class DipeshTiwari extends BackendEngineer {
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23BCB673.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300B050.svg?style=for-the-badge&logo=servicenow&logoColor=white)
@@ -88,7 +87,7 @@ public class DipeshTiwari extends BackendEngineer {
 - 🔗 Built **RESTful microservices** for incident ingestion, enrichment & lifecycle management — reduced manual analyst effort by **~30%**, with **Splunk** as the primary alerting and orchestration layer
 - 🗄️ Cut query latency by **~25%** — redesigned normalized **MySQL schemas** with targeted indexing & pagination for high-volume incident tables
 - 🔑 Secured API access across **8+ microservices** and 3 cross-functional teams with **JWT-based authentication & RBAC** using Spring Security, enforcing least-privilege access across all endpoints
-- 🐳 **Containerized** backend services with Docker and deployed on **Azure**, standardizing the release process and reducing environment-related deployment failures
+- 🐳 **Containerized** backend services with Docker and deployed on **AWS**, standardizing the release process and reducing environment-related deployment failures
 - `Tech: Java | Spring Boot | Microservices | RESTful APIs | MySQL | Spring Security | JWT | Docker | Azure | Splunk | ServiceNow`
 
 ### 🛡️ Associate Security Intern | BT Group *(Jan 2023 – Jul 2023)*
